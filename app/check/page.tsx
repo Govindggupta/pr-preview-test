@@ -2,7 +2,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>page</div>
+    <div className='fixed top-10'>This is the check page </div>
   )
 }
 
