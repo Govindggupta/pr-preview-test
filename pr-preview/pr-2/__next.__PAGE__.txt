@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[59119,["/nextjs-pages-preview-action/pr-preview/pr-2/_next/static/chunks/6bbbafacf6997a52.js"],"Image"]
+3:I[42897,["/nextjs-pages-preview-action/pr-preview/pr-2/_next/static/chunks/3e61cbef2b632a62.js","/nextjs-pages-preview-action/pr-preview/pr-2/_next/static/chunks/98288894a9c3fbe8.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"UsaparPOvap1UneSIl1kG","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-screen flex-col items-center justify-center p-24","children":["Hello world from Govind Gupta",["$","div",null,{"children":["$","$L2",null,{"src":"https://avatars.githubusercontent.com/u/119047426?v=4","alt":"Vercel Logo","width":272,"height":72,"priority":true}]}]]}],[["$","script","script-0",{"src":"/nextjs-pages-preview-action/pr-preview/pr-2/_next/static/chunks/6bbbafacf6997a52.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
