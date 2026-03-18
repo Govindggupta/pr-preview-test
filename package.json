@@ -1,5 +1,5 @@
 {
-  "name": "pr-preview-test",
+  "name": "nextjs-pages-preview-action",
   "version": "0.1.0",
   "private": true,
   "scripts": {

@@ -4,9 +4,9 @@ const isGitHubActions = process.env.GITHUB_ACTIONS === "true";
 const isPRPreview = process.env.BASE_PATH !== undefined;
 
 const basePath = isPRPreview
-  ? process.env.BASE_PATH                  // PR preview: /pr-preview-test/pr-preview/pr-42
+  ? process.env.BASE_PATH                  // PR preview: /nextjs-pages-preview-action/pr-preview/pr-42
   : isGitHubActions
-  ? "/pr-preview-test"                     // Main deploy on GitHub Actions
+  ? "/nextjs-pages-preview-action"                     // Main deploy on GitHub Actions
   : "";                                    // Local dev: no basePath
 
 const nextConfig: NextConfig = {

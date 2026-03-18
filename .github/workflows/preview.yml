@@ -41,7 +41,7 @@ jobs:
       - name: Build
         if: github.event.action != 'closed'
         env:
-          BASE_PATH: /pr-preview-test/pr-preview/pr-${{ github.event.number }}
+          BASE_PATH: /nextjs-pages-preview-action/pr-preview/pr-${{ github.event.number }}
         run: pnpm build
 
       - name: Add .nojekyll
